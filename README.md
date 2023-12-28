@@ -7,7 +7,13 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 2. [Desenvolvimento Web](#desenvolvimento-web)
 3. [Ferramentas e Utilitários](#ferramentas-e-utilitários)
 4. [Comunidade e Redes Sociais](#comunidade-e-redes-sociais)
-5. [Referências e Documentação](#referências-e-documentação)
+6. [Referências e Documentação](#referências-e-documentação)
+7. [Imagens e Ilustrações](#imagens-e-ilustrações)   
+8. [Frameworks/Componentes de Interface](#referências-e-documentação)
+9. [Paletas de Cor](#paletas-de-cor)
+10. [Animações](#animações)
+11. [Ícones](#ícones)
+12. [Fontes](#fontes)
 
 ---
 
@@ -20,7 +26,6 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 
 ## Desenvolvimento Web
 
-- [MDN Web Docs](https://developer.mozilla.org/) - Documentação abrangente para tecnologias web.
 - [W3Schools](https://www.w3schools.com/) - Tutoriais e referências para HTML, CSS, JavaScript e mais.
 - [CSS-Tricks](https://css-tricks.com/) - Dicas, truques e técnicas CSS.
 - [JavaScript.info](https://javascript.info/) - Tutoriais detalhados e recursos para JavaScript.
@@ -30,14 +35,6 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 - [Can I Use](https://caniuse.com/) - Verifique a compatibilidade de recursos web em diferentes navegadores.
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Avalie o desempenho do seu site.
 - [Favicon Generator](https://www.favicon-generator.org/) - Crie favicons para seu site facilmente.
-- [Color Hunt](https://colorhunt.co/) - Explore paletas de cores populares e inspiradoras.
-- [Unsplash](https://unsplash.com/pt-br) - Banco de imagens de alta qualidade.
-- [Undraw](https://undraw.co/) - Ilustrações personalizáveis.
-- [Blobmaker](https://www.blobmaker.app/) - Crie gráficos de blob.
-- [Storyset](https://storyset.com/) - Ilustrações para contar histórias.
-- [Open Doodles](https://www.opendoodles.com/) - Ilustrações gratuitas e desenhadas à mão.
-- [Open Peeps](https://www.openpeeps.com/) - Ilustrações de pessoas editáveis.
-- [Visual Hunt](https://visualhunt.com/) - Busca por imagens gratuitas.
 
 ## Comunidade e Redes Sociais
 
@@ -49,42 +46,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 - [DevDocs](https://devdocs.io/) - Agregador de documentação para várias tecnologias e APIs.
 - [Mozilla Developer Network](https://developer.mozilla.org/) - Referência abrangente para tecnologias web.
 - [CSS Reference](https://cssreference.io/) - Uma referência visual para CSS.
-- [Keyframes](https://keyframes.app/) - Crie animações CSS facilmente.
-- [LottieFiles](https://lottiefiles.com/) - Biblioteca de animações vetoriais.
-- [Feather Icons](https://feathericons.com/) - Ícones simples e bonitos.
-- [Bootstrap Icons](https://icons.getbootstrap.com/) - Ícones do Bootstrap.
-- [Icons8](https://icons8.com.br/) - Ícones gratuitos para todos os seus projetos.
-- [Phosphor Icons](https://phosphoricons.com/) - Ícones animados e de alta qualidade.
-- [Hero Icons](https://heroicons.com/) - Ícones gratuitos para projetos web.
-- [Lucide Icons](https://lucide.dev/) - Ícones minimalistas para seus projetos.
-- [Radix UI Icons](https://www.radix-ui.com/icons) - Ícones para componentes UI.
-- [DevIcons](https://devicon.dev/) - Ícones de tecnologias para desenvolvedores.
-- [Google Fonts](https://fonts.google.com/) - Biblioteca de fontes gratuitas.
-- [Dafont](https://www.dafont.com/pt/) - Baixe fontes gratuitas para seus projetos.
-- [Adobe Fonts](https://fonts.adobe.com/) - Explore e use fontes da Adobe.
-- [BeFonts](https://befonts.com/) - Baixe fontes gratuitas e premium.
-- [FontSpace](https://www.fontspace.com/) - Biblioteca de fontes gratuita.
-- [Font Pair](https://www.fontpair.co/) - Combinações de fontes harmoniosas.
-- [Abstract Fonts](https://www.abstractfonts.com/) - Baixe fontes gratuitas e de código aberto.
-
-
-
-
-# Front-end Developer Resources
-
-Este repositório é uma compilação organizada de recursos úteis para desenvolvedores front-end, categorizados em seções específicas. Se você procura inspiração para design, ferramentas práticas, frameworks, paletas de cores, animações, ícones ou fontes, aqui você encontrará uma lista cuidadosamente selecionada.
-
-## Conteúdo
-
-1. [Inspiração e Design](#inspiração-e-design)
-2. [Desenvolvimento Web](#desenvolvimento-web)
-3. [Ferramentas e Utilitários](#ferramentas-e-utilitários)
-4. [Comunidade e Redes Sociais](#comunidade-e-redes-sociais)
-5. [Referências e Documentação](#referências-e-documentação)
-
----
-
-## Inspiração e Design
+- [MDN Web Docs](https://developer.mozilla.org/) - Documentação abrangente para tecnologias web.
 
 ### Imagens e Ilustrações
 - [Unsplash](https://unsplash.com/pt-br) - Banco de imagens de alta qualidade.
@@ -143,16 +105,7 @@ Este repositório é uma compilação organizada de recursos úteis para desenvo
 - [Font Pair](https://www.fontpair.co/) - Combinações de fontes harmoniosas.
 - [Abstract Fonts](https://www.abstractfonts.com/) - Baixe fontes gratuitas e de código aberto.
 
-## Inspiração de Sites
-
-- [Dribbble](https://dribbble.com/) - Compartilhe e descubra designs inspiradores.
-- [Behance](https://www.behance.net/) - Plataforma para mostrar e descobrir trabalhos criativos.
-- [Awwwards](https://www.awwwards.com/) - Reconhecimento para designers, desenvolvedores e agências.
-- [CSS Design Awards](https://www.cssdesignawards.com/) - Destaque para designs excepcionais em CSS.
 
 ---
 
 Sinta-se à vontade para explorar esses recursos valiosos e contribuir com novos links para enriquecer a experiência de desenvolvimento front-end para a comunidade. Se encontrar algum problema ou tiver sugestões, por favor, abra uma issue. Happy coding! 🚀
-
-
-Sinta-se à vontade para contribuir. Se encontrar algum problema ou tiver sugestões, por favor, abra uma issue. Happy coding! 🚀
