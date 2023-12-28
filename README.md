@@ -1,9 +1,5 @@
-# RECURSOS-DESENVOLVEDORES-FRONT-END
-Este repositório serve como uma valiosa coleção de recursos para desenvolvedores front-end. Se você está em busca de inspiração para design, ferramentas úteis, frameworks, paletas de cores, animações, ícones, fontes ou referências de desenvolvimento web, você encontrará uma variedade de links cuidadosamente selecionados aqui.
-
 # Recursos para Desenvolvedores Front-end
-
-Este repositório contém uma lista de sites úteis para desenvolvedores front-end. Se você está procurando por inspiração, tutoriais, ferramentas ou referências, você encontrará recursos valiosos aqui.
+Este repositório serve como uma valiosa coleção de recursos para desenvolvedores front-end. Se você está em busca de inspiração para design, ferramentas úteis, frameworks, paletas de cores, animações, ícones, fontes ou referências de desenvolvimento web, você encontrará uma variedade de links cuidadosamente selecionados aqui.
 
 ## Conteúdo
 
