@@ -4,7 +4,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 ## Conteúdo
 
 1. [Inspiração e Design](#inspiração-e-design)
-2. [Desenvolvimento Web](#desenvolvimento-web)
+2. [Tutoriais](#tutoriais)
 3. [Ferramentas e Utilitários](#ferramentas-e-utilitários)
 4. [Comunidade e Redes Sociais](#comunidade-e-redes-sociais)
 6. [Referências e Documentação](#referências-e-documentação)
@@ -24,7 +24,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 - [Awwwards](https://www.awwwards.com/) - Reconhece e premia o talento e esforço na criação de experiências web.
 - [CSS Design Awards](https://www.cssdesignawards.com/) - Destaque para designs excepcionais em CSS.
 
-## Desenvolvimento Web
+## Tutoriais
 
 - [W3Schools](https://www.w3schools.com/) - Tutoriais e referências para HTML, CSS, JavaScript e mais.
 - [CSS-Tricks](https://css-tricks.com/) - Dicas, truques e técnicas CSS.
