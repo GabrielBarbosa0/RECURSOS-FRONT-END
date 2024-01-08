@@ -78,6 +78,8 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 - [Coolors](https://coolors.co/f6e8ea-ef626c-22181c-312f2f-84dccf) - Gerador de esquemas de cores.
 - [Who Can Use](https://www.whocanuse.com/) - Verifique a acessibilidade das suas paletas de cores.
 - [TailwindCSS](https://tailwindcss.com/docs/customizing-colors) - Personalize as cores no Tailwind CSS.
+- [Colorkit.io](https://colorkit.io/) - Cria paletas de cor.
+- [Mobbin](https://mobbin.com/browse/ios/apps/) - Paletas de cores para inspiração.
 
 ## Animações
 
