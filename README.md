@@ -108,7 +108,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 - [Font Pair](https://www.fontpair.co/) - Combinações de fontes harmoniosas.
 - [Abstract Fonts](https://www.abstractfonts.com/) - Baixe fontes gratuitas e de código aberto.
 
-## Fontes
+## Artigos
 
 - [Grupo Nielsen Norman: O Sistema de Design Definitivo](https://awari.com.br/grupo-nielsen-norman-o-sistema-de-design-definitivo/) - Combinações de fontes harmoniosas.
 - [Transforme sua interface de usuário com a regra 60-30-10](https://awari.com.br/60-30-10/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Transforme%20sua%20interface%20de%20usu%C3%A1rio%20com%20a%20regra%2060-30-10#:~:text=Para%20aplicar%20a%20regra%20dos%2060%2D30%2D10%20ao%20design,a%20cor%20terci%C3%A1ria%20para%2010%25.) - Combinações de fontes harmoniosas.
