@@ -86,6 +86,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 
 - [Keyframes](https://keyframes.app/) - Crie animações CSS facilmente.
 - [LottieFiles](https://lottiefiles.com/) - Biblioteca de animações vetoriais.
+- [CssBoxShadow](https://getcssscan.com/css-box-shadow-examples) - Biblioteca de sombras.
 
 ## Ícones
 
