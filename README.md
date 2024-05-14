@@ -57,6 +57,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 - [Open Doodles](https://www.opendoodles.com/) - Ilustrações gratuitas e desenhadas à mão.
 - [Open Peeps](https://www.openpeeps.com/) - Ilustrações de pessoas editáveis.
 - [Visual Hunt](https://visualhunt.com/) - Busca por imagens gratuitas.
+- [PhotoRoom](https://www.photoroom.com/pt-br/ferramentas/remover-fundo-de-imagem) - Remove o fundo de imagens utilizando IA.
 
 ### Frameworks/Componentes de Interface
 - [Layoutit](https://grid.layoutit.com/) - Crie layouts com Bootstrap.
