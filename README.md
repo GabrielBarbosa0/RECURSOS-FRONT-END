@@ -115,7 +115,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 - [Grupo Nielsen Norman: O Sistema de Design Definitivo](https://awari.com.br/grupo-nielsen-norman-o-sistema-de-design-definitivo/) - Combinações de fontes harmoniosas.
 - [Transforme sua interface de usuário com a regra 60-30-10](https://awari.com.br/60-30-10/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Transforme%20sua%20interface%20de%20usu%C3%A1rio%20com%20a%20regra%2060-30-10#:~:text=Para%20aplicar%20a%20regra%20dos%2060%2D30%2D10%20ao%20design,a%20cor%20terci%C3%A1ria%20para%2010%25.) - Combinações de fontes harmoniosas.
 - [Design de UX: Como ele pode te ajudar a conquistar o sucesso](https://awari.com.br/design-de-ux-como-ele-pode-te-ajudar-a-conquistar-o-sucesso/) - Combinações de fontes harmoniosas.
-- [Microempresas de Software como Serviço(Micro-SaaS)](https://encurtador.com.br/U4vRb) - Microempresas de Software como Serviço.
+- [Microempresas de Software como Serviço(Micro-SaaS)](https://encurtador.com.br/U4vRb) - Empreendimento de software administrado por um ou dois desenvolvedores.
 
 
 
