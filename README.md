@@ -33,6 +33,7 @@ Este repositório serve como uma valiosa coleção de recursos para desenvolvedo
 
 ## Ferramentas e Utilitários
 
+- [Agent QA](https://github.com/vostride/agent-qa) - CLI e ferramenta MCP com código disponível para testes de aplicações web em linguagem natural, memória de execução e adaptação a mudanças na interface (FSL-1.1-ALv2; cada versão migra para Apache-2.0 após dois anos).
 - [Can I Use](https://caniuse.com/) - Verifique a compatibilidade de recursos web em diferentes navegadores.
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Avalie o desempenho do seu site.
 - [Favicon Generator](https://www.favicon-generator.org/) - Crie favicons para seu site facilmente.
